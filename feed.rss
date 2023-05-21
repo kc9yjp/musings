@@ -5,8 +5,19 @@
 		<link>/musings</link>
 		<description />
 		<copyright>Copyright © 2023 by me</copyright>
-		<pubDate>Sun, 21 May 2023 14:39:07 GMT</pubDate>
-		<lastBuildDate>Sun, 21 May 2023 14:39:07 GMT</lastBuildDate>
+		<pubDate>Sun, 21 May 2023 14:46:55 GMT</pubDate>
+		<lastBuildDate>Sun, 21 May 2023 14:46:55 GMT</lastBuildDate>
+		<item>
+			<title>Success</title>
+			<link>/musings/posts/another-day-another-dollar.html</link>
+			<description>&lt;p&gt;I'm very happy with my success with &lt;a href="https://statiq.dev/"&gt;Statiq&lt;/a&gt;. Here's the site and I can even edit on the GitHub website, because I am using MarkDown.&lt;/p&gt;</description>
+			<guid isPermaLink="false">/musings/posts/another-day-another-dollar.html</guid>
+			<pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;I'm very happy with my success with &lt;a href="https://statiq.dev/"&gt;Statiq&lt;/a&gt;. Here's the site and I can even edit on the GitHub website, because I am using MarkDown.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I love it!&lt;/strong&gt;&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
 		<item>
 			<title>Welcome to my musings.</title>
 			<link>/musings/posts/welcome.html</link>
