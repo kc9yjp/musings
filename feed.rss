@@ -2,16 +2,16 @@
 <rss xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
 	<channel>
 		<title />
-		<link>/</link>
+		<link>/musings</link>
 		<description />
 		<copyright>Copyright © 2023 by me</copyright>
-		<pubDate>Sun, 21 May 2023 11:31:59 GMT</pubDate>
-		<lastBuildDate>Sun, 21 May 2023 11:31:59 GMT</lastBuildDate>
+		<pubDate>Sun, 21 May 2023 14:26:15 GMT</pubDate>
+		<lastBuildDate>Sun, 21 May 2023 14:26:15 GMT</lastBuildDate>
 		<item>
 			<title>Welcome to my musings.</title>
-			<link>/posts/welcome.html</link>
+			<link>/musings/posts/welcome.html</link>
 			<description>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;</description>
-			<guid isPermaLink="false">/posts/welcome.html</guid>
+			<guid isPermaLink="false">/musings/posts/welcome.html</guid>
 			<pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;
 &lt;p&gt;I have a couple of projects it will be good for.&lt;/p&gt;
@@ -20,9 +20,9 @@
 		</item>
 		<item>
 			<title>Nonsense</title>
-			<link>/posts/rubbish.html</link>
+			<link>/musings/posts/rubbish.html</link>
 			<description>&lt;p&gt;It is a sign of the apoclypse!&lt;/p&gt;</description>
-			<guid isPermaLink="false">/posts/rubbish.html</guid>
+			<guid isPermaLink="false">/musings/posts/rubbish.html</guid>
 			<pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
 			<content:encoded>&lt;p&gt;It is a sign of the apoclypse!&lt;/p&gt;
 &lt;blockquote&gt;We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.&lt;/blockquote&gt;

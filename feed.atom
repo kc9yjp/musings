@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<id>/</id>
+	<id>/musings</id>
 	<title />
-	<link rel="self" href="/" />
+	<link rel="self" href="/musings" />
 	<rights>Copyright © 2023 by me</rights>
-	<updated>2023-05-21T11:31:59Z</updated>
+	<updated>2023-05-21T14:26:15Z</updated>
 	<entry>
-		<id>/posts/welcome.html</id>
+		<id>/musings/posts/welcome.html</id>
 		<title>Welcome to my musings.</title>
-		<link href="/posts/welcome.html" />
+		<link href="/musings/posts/welcome.html" />
 		<updated>2023-05-20T00:00:00Z</updated>
 		<content>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;
 &lt;p&gt;I have a couple of projects it will be good for.&lt;/p&gt;
@@ -16,9 +16,9 @@
 		<summary>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>/posts/rubbish.html</id>
+		<id>/musings/posts/rubbish.html</id>
 		<title>Nonsense</title>
-		<link href="/posts/rubbish.html" />
+		<link href="/musings/posts/rubbish.html" />
 		<updated>2023-05-20T00:00:00Z</updated>
 		<content>&lt;p&gt;It is a sign of the apoclypse!&lt;/p&gt;
 &lt;blockquote&gt;We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.&lt;/blockquote&gt;
