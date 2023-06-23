@@ -4,7 +4,7 @@
 	<title />
 	<link rel="self" href="/musings" />
 	<rights>Copyright © 2023 by me</rights>
-	<updated>2023-06-22T00:34:54Z</updated>
+	<updated>2023-06-23T00:37:33Z</updated>
 	<entry>
 		<id>/musings/posts/scheduled-post.html</id>
 		<title>Scheduled Post</title>
@@ -25,16 +25,6 @@
 		<summary>&lt;p&gt;I'm very happy with my success with &lt;a href="https://statiq.dev/"&gt;Statiq&lt;/a&gt;. Here's the site and I can even edit on the GitHub website, because I am using MarkDown.&lt;/p&gt;</summary>
 	</entry>
 	<entry>
-		<id>/musings/posts/welcome.html</id>
-		<title>Welcome to my musings.</title>
-		<link href="/musings/posts/welcome.html" />
-		<updated>2023-05-20T00:00:00Z</updated>
-		<content>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;
-&lt;p&gt;I have a couple of projects it will be good for.&lt;/p&gt;
-</content>
-		<summary>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;</summary>
-	</entry>
-	<entry>
 		<id>/musings/posts/rubbish.html</id>
 		<title>Nonsense</title>
 		<link href="/musings/posts/rubbish.html" />
@@ -44,5 +34,15 @@
 &lt;p&gt;Nah!&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;It is a sign of the apoclypse!&lt;/p&gt;</summary>
+	</entry>
+	<entry>
+		<id>/musings/posts/welcome.html</id>
+		<title>Welcome to my musings.</title>
+		<link href="/musings/posts/welcome.html" />
+		<updated>2023-05-20T00:00:00Z</updated>
+		<content>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;
+&lt;p&gt;I have a couple of projects it will be good for.&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;</summary>
 	</entry>
 </feed>

@@ -5,8 +5,8 @@
 		<link>/musings</link>
 		<description />
 		<copyright>Copyright © 2023 by me</copyright>
-		<pubDate>Thu, 22 Jun 2023 00:34:54 GMT</pubDate>
-		<lastBuildDate>Thu, 22 Jun 2023 00:34:54 GMT</lastBuildDate>
+		<pubDate>Fri, 23 Jun 2023 00:37:33 GMT</pubDate>
+		<lastBuildDate>Fri, 23 Jun 2023 00:37:33 GMT</lastBuildDate>
 		<item>
 			<title>Scheduled Post</title>
 			<link>/musings/posts/scheduled-post.html</link>
@@ -29,17 +29,6 @@
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
 		<item>
-			<title>Welcome to my musings.</title>
-			<link>/musings/posts/welcome.html</link>
-			<description>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;</description>
-			<guid isPermaLink="false">/musings/posts/welcome.html</guid>
-			<pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
-			<content:encoded>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;
-&lt;p&gt;I have a couple of projects it will be good for.&lt;/p&gt;
-</content:encoded>
-			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
-		</item>
-		<item>
 			<title>Nonsense</title>
 			<link>/musings/posts/rubbish.html</link>
 			<description>&lt;p&gt;It is a sign of the apoclypse!&lt;/p&gt;</description>
@@ -48,6 +37,17 @@
 			<content:encoded>&lt;p&gt;It is a sign of the apoclypse!&lt;/p&gt;
 &lt;blockquote&gt;We’ve trained a model called ChatGPT which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer followup questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.&lt;/blockquote&gt;
 &lt;p&gt;Nah!&lt;/p&gt;
+</content:encoded>
+			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
+		</item>
+		<item>
+			<title>Welcome to my musings.</title>
+			<link>/musings/posts/welcome.html</link>
+			<description>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;</description>
+			<guid isPermaLink="false">/musings/posts/welcome.html</guid>
+			<pubDate>Sat, 20 May 2023 00:00:00 GMT</pubDate>
+			<content:encoded>&lt;p&gt;I'm excited about using Statiq. This is an awesome looking platform.&lt;/p&gt;
+&lt;p&gt;I have a couple of projects it will be good for.&lt;/p&gt;
 </content:encoded>
 			<comments xmlns="http://purl.org/rss/1.0/modules/slash/">0</comments>
 		</item>
